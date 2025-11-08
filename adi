@@ -1,0 +1,518 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>Portofolio - Adie Guna Apik Dumadi</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/dygna.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header dark-background d-flex flex-column">
+    <i class="header-toggle d-xl-none bi bi-list"></i>
+
+    <div class="profile-img">
+      <img src="assets/img/adi.jpg" alt="" class="img-fluid rounded-circle">
+    </div>
+
+    <a href="index.html" class="logo d-flex align-items-center justify-content-center">
+      <!-- Uncomment the line below if you also wish to use an image logo -->
+      <!-- <img src="assets/img/logo.png" alt=""> -->
+      <h1 class="sitename">Adie Guna Apik Dumadi</h1>
+    </a>
+
+    <div class="social-links text-center">
+      <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
+      <a href="#" class="youtube"><i class="bi bi-youtube"></i></a>
+      <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
+      <a href="#" class="tiktok"><i class="bi bi-tiktok"></i></a>
+      <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
+    </div>
+
+    <nav id="navmenu" class="navmenu">
+      <ul>
+        <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Home</a></li>
+        <li><a href="#about"><i class="bi bi-person navicon"></i> About</a></li>
+        <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Curriculum Vitae </a></li>
+        <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Portfolio</a></li>
+        <li><a href="#contact"><i class="bi bi-envelope navicon"></i> Contact</a></li>
+      </ul>
+    </nav>
+
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section dark-background">
+
+      <img src="assets/img/IMG-20250513-WA0017.jpg" alt="" data-aos="fade-in" class="">
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <h2>Adie Guna Apik Dumadi</h2>
+        <p>Saya Ahli <span class="typed" data-typed-items="Public Speaking, Desain Grafis, Memasak, Teknisi komputer dan Jaringan, Microsof, Time Managemen"> Public Speaking </span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>About</h2>
+        <p>Saya adalah orang yang senang dalam melakukan aktivitas apapun akan tetapi
+        jika aktivitas tersebut tidak memakan atau tidak membuatkan saya rugi saya
+        akan merasa senang melakukan hal tersebut dan Saya adalah orang yang ingin
+        berusaha menjadi orang yang tepat waktu dan berangkat sebelum jam yang
+        ditentukan.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4 justify-content-center">
+          <div class="col-lg-4">
+            <img src="assets/img/adie-guna.jpg" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-8 content">
+            <div class="row">
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Tanggal Lahir:</strong> <span>18 November 2005</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Telepon:</strong> <span>+62 13 2964 4856</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Kota:</strong> <span>Tegal,Kec.Lebaksiu, Des.Yamansari</span></li>
+                </ul>
+              </div>
+              <div class="col-lg-6">
+                <ul>
+                  <li><i class="bi bi-chevron-right"></i> <strong>umur:</strong> <span>20</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Gelar:</strong> <span>Mahasiswa</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>adieguna710@gmail.com</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Sekolah:</strong> <span>Uin Walisongo Semarang</span></li>
+                </ul>
+              </div>
+            </div>
+            <p class="py-3">
+              <h2>Pesan</h2>
+              Semua orang yang ada di dunia tidak akan menanyak proses kamu ketika berhasil jadi rasakanlah sakit dan nikmatilah apa yang kamu lakukan tidak perlu memikirkan orang yang menghinamu dan ketika berhasil merendahlah tanpa merendah-rendahkan orang lain.
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+
+    <!-- Skills Section -->
+    <section id="skills" class="skills section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>keahlian</h2>
+        <p>sesuatu keahlian yang saya miliki adalah kebanggan</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row skills-content skills-animation">
+
+          <div class="col-lg-6">
+
+            <div class="progress">
+              <span class="skill"><span>Memasak</span> <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="75"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Teknisi Computer dan Jaringan</span> <i class="val">70%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="70"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>microsoft</span> <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="85"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+          </div>
+
+          <div class="col-lg-6">
+
+            <div class="progress">
+              <span class="skill"><span>Public Speaking</span> <i class="val">75%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="75"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Time Managemen</span> <i class="val">85%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="85"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+            <div class="progress">
+              <span class="skill"><span>Desain Grafis</span> <i class="val">50%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="50"></div>
+              </div>
+            </div><!-- End Skills Item -->
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Skills Section -->
+
+    <!-- Resume Section -->
+    <section id="resume" class="resume section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Curriculum Vitae</h2>
+        <p>Sebuah perjuangan yang saya lakukan untuk mencapain keahalian tertentu dan dengan keahlian ini saya merasa menjadi seseoarang yang terus tumbuh walupun masih banyak orang pasti melebihi keahalian yang saya miliki tapi saya bangga.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <h3 class="resume-title"> Teknisi dan Jaringan SMK SW</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie Guna Apik DUmadi</h4>
+              <p><em>merakit PC dan menyetel ulang sofware
+              untuk lab SMK Syubbanul Wathon.</em></p>
+              <ul>
+                <li>Jl. K. Abdan No. 03 Tegalrejo Magelang 56192 </li>
+                <li>Website : www.smksw.sch.id</li>
+                <li>Email : pengurus@smksw.sch.id</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+              <h3 class="resume-title">Teknisi Jaringan SMK SW</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie Guna Apik Dumadi</h4>
+              <p><em>memasang kabel-kabel untuk jariingan wifi lab komputer SMK Syubbanul Wathon.</em></p>
+              <ul>
+                <li>Jl. K. Abdan No. 03 Tegalrejo Magelang 56192 </li>
+                <li>Website : www.smksw.sch.id</li>
+                <li>Email : pengurus@smksw.sch.id</li>
+              </ul>
+              </div><!-- Edn Resume Item -->
+
+                <h3 class="resume-title">Project IoT Pengukur Tinggi Badan Otomatis Mengunakan Sic</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie guna Apik Dumadi</h4>
+              <p><em>ini adalah salah satu proget akhir dari SMK saya di Syubbanul Wathon Tegalrejo Magelang .</em></p>
+              <ul>
+                <li>kantor Magelang. Jl.Elo.Jetis No. 119,Pancuranmas, Magelang 56195.</li>
+                <li>085101530644</li>
+                <li>Website : www.smksw.sch.id</li>
+              </ul>
+
+            </div><!-- Edn Resume Item -->
+
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+
+                <h3 class="resume-title">Staff Waterboom Gilar-Gilar</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie Guna Apik Dumadi</h4>
+              <p><em>salah satu pengisi kegiatan libur kuliah saya menjadi staf dari Waterbom Gilar-Gilar yang menjadikan saya punya penglaman baru.</em></p>
+              <ul>
+                <li>Timbangrejo, Timbangreja, Kec. Lebaksiu, Kabupaten Tegal, Jawa Tengah 52461</li>
+                <li> 082322223757 </li>
+                <li>Ig : waterboomgilargilar</li>
+              </ul>      
+              </div><!-- Edn Resume Item -->
+
+                <h3 class="resume-title">Karyawan Kebab</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie Guna Apik Dumadi</h4>
+              <p><em>salah satu pilihan saya dak keputusan saya ketika memilih menjadi karyawan kebab dengan status mahasiswa aktif.</em></p>
+              <ul>
+                <li>Kec.Ngaliyan,gondorio</li>
+                <li>085601549981</li>
+                <li>ig : Kebab Mileniall</li>
+              </ul>
+            </div><!-- Edn Resume Item -->
+
+                <h3 class="resume-title">Kichen Cafe Konoha</h3>
+
+            <div class="resume-item pb-0">
+              <h4>Adie Guna Apik Dumadi</h4>
+              <p><em>salah satu pekerjaan kedua setealh resign dari kebab Milenial.</em></p>
+              <ul>
+                <li> Jl. Honggowongso, Purwoyoso, Kec. Ngaliyan, Kota Semarang, Jawa Tengah 50184</li>
+                <li>085869954071</li>
+                </ul>
+            </div><!-- Edn Resume Item -->
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /Resume Section -->
+
+    <!-- Portfolio Section -->
+    <section id="portfolio" class="portfolio section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Portfolio</h2>
+        <p>salah satu hasil dan tangkapan indah pekerjaan yang saya hasilkan untuk pondasi langkah langkah saya menjalani kehidupan.</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
+
+          <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
+            <li data-filter="*" class="filter-active">All</li>
+            <li data-filter=".filter-app">Indodax</li>
+            <li data-filter=".filter-branding">Branding</li>
+            <li data-filter=".filter-books">Sertifikat</li>
+          </ul><!-- End Portfolio Filters -->
+
+          <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/P-1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Indodak-1</h4>
+                  <p>salah satu aplikasi penghasil uang sayaa</p>
+                  <a href="assets/img/portfolio/app-1.jpg" title="App 1" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-branding">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/b-1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>b-1</h4>
+                  <p>desain saya untuk menarik branding IMT</p>
+                  <a href="assets/img/portfolio/branding-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-branding" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/sertifikat-1.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>sertifikat-1</h4>
+                  <p>bukti saya telaah selesai menjalankan tugas</p>
+                  <a href="assets/img/portfolio/books-1.jpg" title="Branding 1" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/Indodak-2.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Indodak-2</h4>
+                  <p>salah satu aplikasi penghasil uang sayaa</p>
+                  <a href="assets/img/portfolio/app-2.jpg" title="App 2" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-books">
+              <div class="portfolio-content h-100">
+                <img src="assets/img/portfolio/Sertifikat-2.jpg" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Sertifikat-2</h4>
+                  <p>Penghargaan yang saya terima menjadi teknisi dan jaringan</p>
+                  <a href="assets/img/portfolio/books-2.jpg" title="Branding 2" data-gallery="portfolio-gallery-book" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="portfolio-details.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+          </div><!-- End Portfolio Container -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Portfolio Section -->
+  
+    <!-- Contact Section -->
+    <section id="contact" class="contact section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Contact</h2>
+        <p>Hubungi saya jika anda tertarik</p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-5">
+
+            <div class="info-wrap">
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="200">
+                <i class="bi bi-geo-alt flex-shrink-0"></i>
+                <div>
+                  <h3>Alamat</h3>
+                  <p>Tegal, Kec.Lebaksiu, Des.Yamansari, 52461</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="300">
+                <i class="bi bi-telephone flex-shrink-0"></i>
+                <div>
+                  <h3>Kontak</h3>
+                  <p>081329644865</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <div class="info-item d-flex" data-aos="fade-up" data-aos-delay="400">
+                <i class="bi bi-envelope flex-shrink-0"></i>
+                <div>
+                  <h3>Email </h3>
+                  <p>adieguna710@gmail.com</p>
+                </div>
+              </div><!-- End Info Item -->
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3959.6775933857925!2d109.12777897403754!3d-7.047120769051059!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e6f9500066459e1%3A0x4745ed77f6c09829!2sRumah%20Adie%20Guna%20Apik%20Dumadi!5e0!3m2!1sid!2sid!4v1762586984333!5m2!1sid!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> " X43J+44X, Sepumaja, Yamansari, Kec. Lebaksiu, Kabupaten Tegal, Jawa Tengah 52461"></iframe>
+            </div>
+          </div>
+
+          <div class="col-lg-7">
+            <form action="forms/contact.php" method="post" class="php-email-form" data-aos="fade-up" data-aos-delay="200">
+              <div class="row gy-4">
+
+                <div class="col-md-6">
+                  <label for="name-field" class="pb-2">Nama</label>
+                  <input type="text" name="name" id="name-field" class="form-control" required="">
+                </div>
+
+                <div class="col-md-6">
+                  <label for="email-field" class="pb-2">Email</label>
+                  <input type="email" class="form-control" name="email" id="email-field" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <label for="subject-field" class="pb-2">Kepentingan</label>
+                  <input type="text" class="form-control" name="subject" id="subject-field" required="">
+                </div>
+
+                <div class="col-md-12">
+                  <label for="message-field" class="pb-2">Message</label>
+                  <textarea class="form-control" name="message" rows="10" id="message-field" required=""></textarea>
+                </div>
+
+                <div class="col-md-12 text-center">
+                  <div class="loading">Loading</div>
+                  <div class="error-message"></div>
+                  <div class="sent-message">Pesan Anda telah terkirim. Terima kasih!</div>
+
+                  <button type="submit">Kirim Pesan</button>
+                </div>
+
+              </div>
+            </form>
+          </div><!-- End Contact Form -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Contact Section -->
+
+  </main>
+
+  <footer id="footer" class="footer position-relative light-background">
+
+    <div class="container">
+      <div class="copyright text-center ">
+        <p>@ <span>dy</span> <strong class="px-1 sitename">Website-Portfolio</strong> <span>adieguna710@gmail.com</span></p>
+      </div>
+      <div class="credits">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you've purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
+        Designed by <a href="https://bootstrapmade.com/">Adie Guna</a> Distributed by <a href="https://themewagon.com">Adishofspoken</a>
+      </div>
+    </div>
+
+  </footer>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
